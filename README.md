@@ -202,5 +202,5 @@ location ~ .*\.(gif|jpg|jpeg|png|bmp|swf|webp|jfif)$
 * [vue3](https://vuejs.org)
 望各位详细阅读本文档，并参考优质一点的学习资源，入门时少看csdn!
 
-## 九、zerotower69最后一次更新说明
+
 
