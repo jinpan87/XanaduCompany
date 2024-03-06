@@ -9,5 +9,11 @@
         "ecmaVersion": 12
     },
     "rules": {
+        "@Typescript-eslint/no-unused-vars": [
+            "off"
+        ],
+        "no-unused-vars": [
+            "off"
+        ]
     }
 }

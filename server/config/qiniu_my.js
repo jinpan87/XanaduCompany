@@ -1,5 +1,5 @@
 const config={
-    enable:true, //是否开启七牛
+    enable:false, //是否开启七牛
     accessKey:'_FmIlvjEu1ZFo9tvImoA7XHtFjDpddxlKSn4KdiE',
     secretKey:'wuzlv35tRQE98O_Dcd-aiATQh_fXbAyzLjm5gBWM',
     bucket:'duanming', //存储桶名称
